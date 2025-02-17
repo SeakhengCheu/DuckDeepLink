@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "P72CR3WZCW.com.meow.DuckDeepLink",
+        "paths": [ "/test/*" ]
+      }
+    ]
+  }
+}
